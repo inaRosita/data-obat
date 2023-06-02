@@ -1,4 +1,4 @@
-# data-obat
+# Step
 1. Download file apl_apotik.rar
 2. Open the apl_apotik.rar file, then extract the apl_apotik folder and db_apotik.sql
 3. Save the apl_apotik folder in (C:\xampp\htdocs). You can download XAMPP Control Panel, if you don't have it yet 
